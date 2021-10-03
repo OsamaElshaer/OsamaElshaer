@@ -1,4 +1,4 @@
-### About Me
+## About Me
 
 - 🏢 I’m Currently Working as a Freelancer at Web Development and Web Scraping.
 - - ⚡My Last Project http://blockter.herokuapp.com.
@@ -8,7 +8,7 @@
 - 💌 Contact me at Osama.A.M.Elshaer@gmail.com.
 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
@@ -34,7 +34,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## My Github Stats
 
   <br/>
     <a href="https://github.com/osamaelshaer/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=osamaelshaer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
