@@ -1,14 +1,14 @@
-## 🙋‍♂️ About Me
+### About Me
 
-- 🏢 Currently Working as a Freelancer at Web Development and Web Scraping.
-- 🌱 I’m currently Learning Data Sciense & AI.
+- 🏢 I’m Currently Working as a Freelancer at Web Development and Web Scraping.
+- - ⚡My Last Project http://blockter.herokuapp.com.
 - 🌍 I'm mostly active within the Python Community.
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
-- 💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
+- 💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 - 💌 Contact me at Osama.A.M.Elshaer@gmail.com.
-- ⚡My Last Project http://blockter.herokuapp.com.
 
-## 🚀 Languages and Tools:
+
+### Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
