@@ -22,9 +22,9 @@
     <a href="https://github.com/" target="_blank"> </a> <img src="https://img.icons8.com/nolan/64/github.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> 
     <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank"><img src="https://img.icons8.com/external-photo3ideastudio-gradient-photo3ideastudio/64/000000/external-soup-virus-photo3ideastudio-gradient-photo3ideastudio.png"/></a> 
-    <a href="https://docs.python-requests.org/en/latest/" target="_blank"><img src="https://img.icons8.com/office/16/000000/pull-request.png"/></a>
-    <a href="https://www.postman.com/" target="_blank"><img src="https://img.icons8.com/office/100/000000/api-settings.png"/></a>
-    <a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://img.icons8.com/office/16/000000/api-settings.png"/></a>
+    <a href="https://docs.python-requests.org/en/latest/" target="_blank"><img src="https://img.icons8.com/dusk/64/000000/postman-api.png"/></a>
+    <a href="https://www.postman.com/" target="_blank"></a>
+    <a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://img.icons8.com/office/80/000000/api-settings.png"/></a>
     
     
     
